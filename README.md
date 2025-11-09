@@ -9,6 +9,5 @@
 ---
 
 ### 🔗 Selected Articles
-- [Part 1 — What Kind of World Model Does an Autonomous Vehicle Need?](https://medium.com/@qiushaobo/your-part1-link)
-- [Part 2 — The Difference Between Danger and Risk](https://medium.com/@qiushaobo/your-part2-link)
-- [Part 3 — Why White-Box AI Matters](https://medium.com/@qiushaobo/your-part3-link)
+- [Part 1 — What Kind of World Model Does an Autonomous Vehicle Need?](https://medium.com/@qiushaobo/when-ai-learns-to-drive-defensively-the-idea-behind-safety-rightbrain-part-1-f4e44eb55754)
+
