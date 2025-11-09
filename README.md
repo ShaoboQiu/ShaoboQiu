@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🧠 Safety RightBrain — When AI Learns to Drive Defensively
 
-<!--
-**ShaoboQiu/ShaoboQiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Read the full essay series on Medium →**  
+[Safety RightBrain Series (7 Parts)](https://medium.com/@qiushaobo)  
 
-Here are some ideas to get you started:
+> Exploring how autonomous vehicles can think, reason, and drive responsibly.  
+> Topics include: world models, probabilistic safety, cognitive reasoning, AI consciousness, and rule-based intuition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Selected Articles
+- [Part 1 — What Kind of World Model Does an Autonomous Vehicle Need?](https://medium.com/@qiushaobo/your-part1-link)
+- [Part 2 — The Difference Between Danger and Risk](https://medium.com/@qiushaobo/your-part2-link)
+- [Part 3 — Why White-Box AI Matters](https://medium.com/@qiushaobo/your-part3-link)
