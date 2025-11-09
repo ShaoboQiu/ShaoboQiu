@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./images/logo.png" width="80">
+  <img src="https://github.com/ShaoboQiu/World-Model-and-Artificial-Consciousness-for-Dual-Brain-Driven-AV/blob/main/images/logo.png" width="80">
 </p>
 
 ## 🧠 Safety RightBrain — When AI Learns to Drive Defensively
