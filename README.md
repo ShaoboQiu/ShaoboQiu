@@ -16,4 +16,6 @@
 - [Part 1 — What Kind of World Model Does an Autonomous Vehicle Need?](https://medium.com/@qiushaobo/when-ai-learns-to-drive-defensively-the-idea-behind-safety-rightbrain-part-1-f4e44eb55754)
 
 - [Part 2 — The Difference Between Danger and Risk: Why Safety Is a Probabilistic Process](https://medium.com/@qiushaobo/when-ai-learns-to-drive-defensively-the-idea-behind-safety-rightbrain-part-2-e531fcc97422)
+  
+- [Part 3 - Why White-Box AI Matters: Beyond the End-to-End Black-Box Myth](https://medium.com/@qiushaobo/%EF%B8%8F-when-ai-learns-to-drive-defensively-the-idea-behind-safety-rightbrain-part-3-e1bb532bda05)
 
