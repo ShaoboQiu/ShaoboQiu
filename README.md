@@ -21,3 +21,7 @@
 
 - [Part 4 - The Multi-Level Abstraction Problem: How Human Minds Think Differently from AVs](https://medium.com/@qiushaobo/when-ai-learns-to-drive-defensively-the-idea-behind-safety-rightbrain-part-4-346094a0b63b?postPublishedType=repub)
 
+- [Part 5 - How Accident Data Trains the Machine’s Intuition](https://medium.com/@qiushaobo/when-ai-learns-to-drive-defensively-the-idea-behind-safety-rightbrain-part-5-fa96eb3a7cb9)
+ 
+- [Part 6 - What Kind of AI Consciousness Does an AV Need?](https://medium.com/@qiushaobo/when-ai-learns-to-drive-defensively-the-idea-behind-safety-rightbrain-part-6-7a978d9d7b28?postPublishedType=initial)
+
