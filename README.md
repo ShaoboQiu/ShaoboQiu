@@ -25,3 +25,5 @@
  
 - [Part 6 - What Kind of AI Consciousness Does an AV Need?](https://medium.com/@qiushaobo/when-ai-learns-to-drive-defensively-the-idea-behind-safety-rightbrain-part-6-7a978d9d7b28?postPublishedType=initial)
 
+- [Part 7 - Building the Reasoning Engine: How Rules Become Intuition](https://medium.com/@qiushaobo/when-ai-learns-to-drive-defensively-the-idea-behind-safety-rightbrain-part-7-3ebf04395814?postPublishedType=repub)
+
